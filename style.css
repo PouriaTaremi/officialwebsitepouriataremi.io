@@ -1,0 +1,98 @@
+/* ================ body ====================== */
+
+body{
+    margin: 0;
+    background-color: #1a1a1a;
+}
+
+.container {
+    margin: 0 8%;
+}
+
+.padding_tb {
+    padding: 46px 0;
+}
+
+/* .product-card{
+
+} */
+/* ================ parts ====================== */
+
+.parts{
+    min-height: 100px;
+}
+
+#part1{
+    height: 225px;
+    text-align: center;
+}
+
+#part2{
+    height: 138px;
+}
+
+#part3{
+    min-height: 53px;
+    width: 178px;
+    background-color: rgb(132, 0, 255);
+    margin: 44px auto 15px auto;
+    padding: 0;
+    border-radius: 20px 20px 20px 20px;
+}
+
+/* #part4{
+    
+} */
+
+/* ================ part1 ====================== */
+
+.profile{
+    height: 200px;
+    width: 200px;
+}
+
+/* ================ part2 ====================== */
+
+.title1{
+    text-align: center;
+    color: white;
+    margin: 0px 10px 10px 10px;
+    padding: 0;
+    font-family: cursive;
+    font-family: "Zen Dots", Sans-serif;
+    /* font-size: 70px;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 1.2em;
+    letter-spacing: 0px;
+    word-spacing: 0px; */
+}
+
+.title2{
+    text-align: center;
+    color: white;
+    margin: 0px 10px 10px 10px;
+    padding: 0;
+    font-family: system-ui;
+    
+}
+
+/* ================ part3 ====================== */
+
+.title-in-box{
+    color: white;
+    text-align: center;
+    /* margin: 0px; */
+    padding: 13px;
+    font-family: system-ui;
+}
+/* ================ part4 (icons) ====================== */
+.icons-material{
+    text-align: center;
+}
+
+.icons-style{
+    margin: 15px;
+}
